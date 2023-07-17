@@ -11,9 +11,10 @@
 <p>
 <img alt="vue" src="https://img.shields.io/badge/-Vuejs-13aa52?style=flat-square&logo=vue&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="jquery" src="https://img.shields.io/badge/-JqueryJs-13aa52?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="Golang" src="https://img.shields.io/badge/-JqueryJs-13aa52?style=flat-square&logo=jquery&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+ <img alt="python" src="https://img.shields.io/badge/-Python-f8d551?style=flat-square&logo=python&logoColor=white" />
+<img alt="uniapp" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=PHP&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
